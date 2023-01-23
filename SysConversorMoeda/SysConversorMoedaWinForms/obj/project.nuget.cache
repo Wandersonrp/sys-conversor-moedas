@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L3xP5HvhztZ+/Ch3WnY1b5JTRlNKIA8ny9ijV+MnKwLlGBgm5mMezn0tZu2HD/z4+pCYFIQDjMnNQUYRJmqw/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\SysConversorMoeda\\SysConversorMoeda\\SysConversorMoedaWinForms\\SysConversorMoedaWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wande\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
